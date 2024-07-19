@@ -27,5 +27,5 @@ git clone https://github.com/Sulagna-pradhan/Word-Counter.git
 - Go to the directory
 - Run the index.html file
 - Start counting Words!!
-![Capture](https://user-images.githubusercontent.com/60540365/125561215-d86dbe87-3de0-4cab-afa4-1a1a89c1aa58.JPG)
+![Capture](https://github.com/Sulagna-pradhan/Word-Counter/blob/main/capture.jpg)
 
