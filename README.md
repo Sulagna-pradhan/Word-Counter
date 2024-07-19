@@ -21,7 +21,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Sulagna-pradhan/Word-Counter
+git clone https://github.com/Sulagna-pradhan/Word-Counter.git
 ```
 
 - Go to the directory
